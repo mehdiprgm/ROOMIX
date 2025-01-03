@@ -1,4 +1,4 @@
-
+<img src="demo/logo.png" width="350" height="350" alt="logo">
 ![Logo](demo/logo.png)
 
 
