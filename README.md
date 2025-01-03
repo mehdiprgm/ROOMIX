@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <img src="demo/logo.png" width="350" height="350" alt="logo">
     <h1>ROOMIX</h1>
 </div>
