@@ -23,7 +23,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](demo/screenshotjpg)
+![App Screenshot](demo/screenshot.jpg)
 
 ## Authors
 
