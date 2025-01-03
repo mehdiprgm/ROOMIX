@@ -16,11 +16,6 @@ Roomix allows you to easily create random numbers, strings and universally uniqu
 - Save items in file.
 
 
-## Demo
-
-Insert gif or link to demo
-
-
 ## Screenshots
 
 ![App Screenshot](demo/screenshot.jpg)
