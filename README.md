@@ -23,7 +23,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](demo/about-dark.jpg)
+![App Screenshot](demo/video.mp4)
 
 
 ## Authors
