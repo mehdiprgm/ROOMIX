@@ -23,11 +23,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](demo/about-darkjpg)
-![App Screenshot](demo/about-light.jpg)
-![App Screenshot](demo/uuid-dark.jpg)
-![App Screenshot](demo/uuid-light.jpg)
-
+![App Screenshot](demo/screenshotjpg)
 
 ## Authors
 
