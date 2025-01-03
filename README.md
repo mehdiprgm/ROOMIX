@@ -1,4 +1,7 @@
-<img src="demo/logo.png" width="350" height="350" alt="logo">
+<div style="text-align: center;">
+    <img src="demo/logo.png" width="350" height="350" alt="logo">
+    <h1>ROOMIX</h1>
+</div>
 
 # Roomix
 
